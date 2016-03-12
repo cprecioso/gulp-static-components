@@ -7,8 +7,8 @@ whatever flavour of HTML, CSS or JS your heart desires*
 
 > Here be dragons! This Gulp plugin is very **not** tested, and customized to my
   own use cases. Therefore, it hasn't been uploaded to the npm registry (yet)
-  until it stabilizes a bit (and I see there is demand for it). Use under the
-  supervision of an adult.
+  until it stabilizes a bit (and I see there is demand for it). Check the
+  [TODO]. Use under the supervision of an adult.
 
 Any kind of contribution to make it stage-ready is very welcome and encouraged.
 
@@ -141,7 +141,7 @@ the components' `html`, and concats and links the components' `js` and `css`.
 Returns a `html`, a `js` and a `css` file (if applicable) all, with the same
 name.
 
-> TODO: Make this behaviour configurable and/or set smarter defaults.
+> More options coming soon. You can check the [TODO] and help.
 
 ### `options`
 
@@ -159,3 +159,4 @@ name.
 [Polymer]: https://www.polymer-project.org/
 [Ractive]: http://www.ractivejs.org
 [Ractive component]: https://github.com/ractivejs/component-spec
+[TODO]: https://github.com/cprecioso/gulp-static-components/blob/master/TODO.md
