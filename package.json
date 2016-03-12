@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "files": ["dist/"],
   "jsnext:main": "dist/index.es6.js",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "gulppugin",
     "html",
